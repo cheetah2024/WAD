@@ -1,0 +1,38 @@
+﻿WAD LAB videos reference
+
+
+1.A: Create a responsive web page which shows the ecommerce/college/exam admin dashboard with sidebar and statistics in cards using HTML, CSS and Bootstrap.
+https://www.youtube.com/watch?v=MuqJWv_X0t8&list=PL1ysxTqY226jt6IXmJsFwuezqJNqazs5l&index=2&pp=iAQB
+
+
+1.B: login
+https://www.youtube.com/watch?v=4maxtbNroJ8&pp=ygWNAVdyaXRlIGEgSmF2YVNjcmlwdCBQcm9ncmFtIHRvIGdldCB0aGUgdXNlciByZWdpc3RyYXRpb24gZGF0YSBhbmQgcHVzaCB0byBhcnJheS9sb2NhbCBzdG9yYWdlIHdpdGggQUpBWCBQT1NUIG1ldGhvZCBhbmQgZGF0YSBsaXN0IGluIG5ldyBwYWdlLg%3D%3D
+----------------------------------------------------------
+—------------------------------------------------------
+2.a vision control board github
+https://www.youtube.com/watch?v=HsbzTJr2gVo&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=3&pp=iAQB
+
+
+2.b docker
+https://www.youtube.com/watch?v=97X9vTd-a-w&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=4&pp=iAQB
+
+
+2.c angular application 
+https://www.youtube.com/watch?v=FOm7BQi8dEc&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=8&ab_channel=RohitTutorials
+https://www.youtube.com/watch?v=iqtRA0BcIUI&list=PL1ysxTqY226jt6IXmJsFwuezqJNqazs5l&index=5&ab_channel=YOGESHBORHADE  (better)
+-----------------------------------------------------------
+—--------------------------------------------------------
+3.a node js application that serves as a static website
+ https://www.youtube.com/watch?v=kxs-UPhmcE0&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=6&pp=iAQB
+
+
+3.b CRUD operation
+https://www.youtube.com/watch?v=RKQ5rcqG8lk&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=5&pp=iAQB
+--------------------------------------------------------------
+—-------------------------------------------------------------
+4.a jquery mobile
+https://www.youtube.com/watch?v=Afj6YuRG1Ek&list=PLQDpx9hG9bmd29ub3ayn-xWtZueO98Qv-&index=7&pp=iAQB
+
+
+4.b elastic beanstalk
+https://www.youtube.com/watch?v=2BoVhej0QVI&ab_channel=TinyTechnicalTutorials
