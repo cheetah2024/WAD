@@ -1,0 +1,56 @@
+
+MongoDB is a popular, open-source NoSQL database management system (DBMS) that uses a document-oriented database model. Unlike traditional relational databases, which store data in tables with rows and columns, MongoDB stores data in flexible, JSON-like documents with dynamic schemas. 
+
+jQuery Mobile is a user interface (UI) framework built on top of the jQuery JavaScript library. It's designed to simplify the process of creating mobile web applications that are accessible on a wide range of devices, including smartphones, tablets, and desktops.
+
+Angular is a front-end JavaScript framework developed and maintained by Google. It's used for building dynamic single-page web applications (SPAs) and is based on the Model-View-Controller (MVC) architecture
+
+Node.js is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript code on the server, enabling the development of scalable and high-performance web applications. Node.js is known for its non-blocking, event-driven architecture, which makes it well-suited for building real-time applications and APIs.
+
+API stands for Application Programming Interface. It's a set of rules and protocols that allows different software applications to communicate with each other. APIs define the methods and data formats that developers can use to interact with a particular software component, service, or platform.
+
+
+Model: Represents the application's data and business logic. It manages the data, responds to requests for information, and notifies views of changes in the data.
+View: Represents the presentation layer of the application. It displays the data to the user and handles user interactions, such as input and output.
+Controller: Acts as an intermediary between the model and the view. It receives input from the user via the view, processes it using the model, and updates the view accordingly.
+
+
+HTML (Hypertext Markup Language) is the standard markup language used to create and structure web pages and web applications
+
+
+
+Docker is a platform and tool for building, deploying, and running applications using containers. Containers are lightweight, portable, and self-sufficient environments that contain everything needed to run an application, including the code, runtime, system libraries, and dependencies. Docker makes it easy to package applications into containers and deploy them consistently across different environments, such as development, testing, and production.
+
+GCP stands for Google Cloud Platform. It's a suite of cloud computing services offered by Google that provides a variety of infrastructure and platform services for building, deploying, and managing applications and websites.
+
+AWS stands for Amazon Web Services. It's a comprehensive cloud computing platform provided by Amazon, offering a wide range of infrastructure and platform services for building, deploying, and managing applications and services in the cloud.
+
+Type 1 Hypervisor:
+Also known as a "bare-metal hypervisor."
+Runs directly on the physical hardware (the "bare metal") without the need for a host operating system.
+
+Type 2 Hypervisor:
+Also known as a "hosted hypervisor."
+Runs on top of a host operating system, such as Windows, macOS, or Linux.
+
+
+AWS Amplify is a set of tools and services provided by Amazon Web Services (AWS) that enables developers to build full-stack cloud-powered applications more easily. It provides a set of libraries, UI components, and command-line tools that streamline the development process and simplify the integration of cloud services into web and mobile applications.
+
+Amazon Elastic Compute Cloud (EC2): Virtual servers in the cloud that can be provisioned and scaled on-demand.
+AWS Lambda: Serverless computing service that allows you to run code without provisioning or managing servers.
+
+
+Bootstrap is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. Developed by Twitter, Bootstrap provides a collection of pre-designed HTML, CSS, and JavaScript components and utilities that developers can use to create consistent, visually appealing, and user-friendly interfaces with minimal effort.
+
+NPM stands for Node Package Manager. It's the default package manager for the JavaScript runtime environment Node.js. NPM is used to install, manage, and share JavaScript packages and libraries, both for front-end and back-end development.
+
+
+
+A CDN, or Content Delivery Network, is a network of distributed servers located in multiple data centers across the globe. The primary purpose of a CDN is to deliver content to users more efficiently by reducing latency and improving website performance.
+
+Here's how a CDN works:
+
+Content Distribution: When a user requests content from a website, such as images, videos, CSS files, or JavaScript files, the request is routed to the nearest CDN server instead of the origin server where the content is hosted.
+
+
+AJAX stands for Asynchronous JavaScript and XML. It's a set of web development techniques used to create asynchronous web applications. With AJAX, web pages can send and receive data from a server asynchronously without interfering with the display and behavior of the existing page.
